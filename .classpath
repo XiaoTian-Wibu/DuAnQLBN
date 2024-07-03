@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/DuAnQLBN.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mssql-jdbc-9.4.1.jre8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/smtp-1.4.4.jar"/>
+	<classpathentry kind="lib" path="thuvien/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="thuvien/javax.mail.jar"/>
+	<classpathentry kind="lib" path="thuvien/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="thuvien/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="thuvien/mssql-jdbc-9.4.1.jre8.jar"/>
+	<classpathentry kind="lib" path="thuvien/smtp-1.4.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
